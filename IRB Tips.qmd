@@ -8,7 +8,7 @@ format:
     slide-number: true
     preview-links: auto
     logo: images/UK.png
-    footer: <tkfr222@uky.edu> | [tkodyfrey.github.io](tkodyfrey.github.io)
+    footer: <tkfr222@uky.edu> | [tkodyfrey.github.io](https://tkodyfrey.github.io)
     scrollable: true
     transition: fade
     navigation-mode: vertical

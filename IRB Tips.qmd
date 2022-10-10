@@ -225,7 +225,7 @@ I like to look at example protocols for inspiration. If they have been approved 
 
 [People are happy to share!](/Files/LectureSpeedProtocol.pdf)
 
-## Did you Break Your Protocol?
+## Did you Violate Your Protocol?
 
 Submit a Modification Request (MR) when:
 

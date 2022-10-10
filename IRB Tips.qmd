@@ -101,8 +101,6 @@ Pay attention to the 'All Templates' button in the top left
 Actually click on the all templates button to show them what is there.
 :::
 
-##  {background-iframe="https://ris.uky.edu/irb/Dashboard/PI/PIDashboard.aspx" background-interactive="true"}
-
 ## Getting through it unscathed
 
 -   Save. Save. Save. Save. Save.
@@ -206,8 +204,6 @@ Use same language from existing or example protocols but do not copy.
 
 Keep it simple.
 
-##  {background-iframe="https://ris.uky.edu/irb/Dashboard/Login.aspx" background-interactive="true"}
-
 ## Preparing your Research Description {.smaller}
 
 -   Be consistent but avoid repeating
@@ -281,8 +277,6 @@ The odds that it gets accepted right away are slim.
 ## Example Responses
 
 ![](images/Example%202.png)
-
-##  {background-iframe="https://ris.uky.edu/irb/Dashboard/Login.aspx" background-interactive="true"}
 
 ## Building the Relationship
 

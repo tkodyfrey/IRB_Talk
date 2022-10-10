@@ -13,12 +13,10 @@ format:
     transition: fade
     navigation-mode: vertical
 editor: visual
-self-contained: true
 ---
 
 ## Who am I?
 
-::: nonincremental
 -   Quant Methods / Survey Researcher
 -   Instructional Comm Scholar
 -   E-IRB Application Overhaul V4 Reviewer
@@ -30,9 +28,9 @@ self-contained: true
 
 ## Disclaimer
 
-I've tried to make this super practical, so if you have a protocol you are working on (or would like to start), I encourage you to work as we go.
-
-If you want to hold a discussion about the ethics involved in human subjects research, we can do that another time. My goal is to help you submit a protocol and respond to feedback.
+-  Tried to make this super practical
+-  If you have a protocol (or would like to start), work as we go.
+-  My goal is to help you submit a protocol and respond to feedback.
 
 ## What is the IRB?
 
@@ -51,13 +49,13 @@ If you want to hold a discussion about the ethics involved in human subjects res
 
 ## Abandon Your Present Biases
 
-![](images/Bullies.png)
+![](images/Bullies.png){.r-stretch}
 
-## Are communication studies risky?
+## Are communication studies risky? 
 
-It depends.
+*Minimal risk*: 
 
-Minimal risk: "the probability and magnitude of harm or discomfort anticipated ... are not greater ... than those ordinarily encountered in daily life or during ... routine physical or psychological examinations or tests."
+"the probability and magnitude of harm or discomfort anticipated ... are not greater ... than those ordinarily encountered in daily life or during ... routine physical or psychological examinations or tests."
 
 ## What Can I Share That Might Help You?
 
@@ -71,31 +69,33 @@ The 3 Ps!
 
 I want to answer 3 questions in this section:
 
-1.  How do I get started?
-2.  What do I need to actually include?
-3.  How do I submit it?
+-  How do I get started?
+-  What do I need to actually include?
+-  How do I submit it?
 
 ## How do I get started?
 
 The good thing is that the whole process is electronic.
 
-![](images/ORI%20Homepage.png) ::: notes I don't really prepare anything beforehand. Just start the protocol. Do this with them. :::
+![](images/ORI%20Homepage.png){.r-stretch}
+
+::: notes 
+I don't really prepare anything beforehand. Just start the protocol. Do this with them. 
+:::
 
 ## Starting Your Protocol
 
 Let's build a new application.
 
-![](images/New%20Protocol%20App.png)
-
-If you expect it to include minimal risk, speak with faculty member or Don first.
+![](images/New%20Protocol%20App.png){.r-stretch}
 
 ## Understanding the system {.smaller}
 
 It looks more complicated than it is - try not to let it intimidate you
 
-![](images/Protocol.png)
-
 Pay attention to the 'All Templates' button in the top left
+
+![](images/Protocol.png){.r-stretch}
 
 ::: notes
 Actually click on the all templates button to show them what is there.
@@ -115,7 +115,7 @@ Actually click on the all templates button to show them what is there.
 
 Before you can actually submit your protocol to the IRB, it must be reviewed by the Associate Dean for Research (Don)
 
-![](images/helme.jpeg){.absolute bottom="85" right="320" width="400" height="400"}
+![](images/helme.jpeg){.r-stretch}
 
 ::: notes
 Don't know what Don will be like. Nancy was super critical - which was great.
@@ -125,18 +125,12 @@ Don't know what Don will be like. Nancy was super critical - which was great.
 
 *After all information is entered*, you send it to Don for feedback
 
-![](images/Signature.png)
+In any case, email to 1) thank for feedback and 2) explain your changes.
+
+![](images/Signature.png){.r-stretch}
 
 ::: notes
 This is really important to make sure you get right
-:::
-
-Do what he asks unless there is a critical misunderstanding of what the project is about.
-
-In any case, email to 1) thank for feedback and 2) explain your changes.
-
-::: notes
-They want to help but sometimes they just don't know the scope of what you are doing!
 :::
 
 # **The Parts**
@@ -168,15 +162,12 @@ Let's focus primarily on 2 parts:
 -   Informed Consent \[[UKY Templates\]](https://www.research.uky.edu/resources/announcement/updated-informed-consent-templates)
 -   Research Description
 
-## Preparing the Informed Consent Doc
+## Preparing the Informed Consent Doc {.smaller}
 
-You first have to understand the need to document consent.
-
-There are some projects where consent can be acknowledged and documentation is not needed (A *waiver* of consent)
-
-This is common when research has no more than minimal risk.
-
-No waiver = keep your consent filed away and secure.
+-  You first have to understand the need to document consent.
+-  There are some projects where consent can be acknowledged and documentation is not needed (A *waiver* of consent)
+-  This is common when research has no more than minimal risk.
+-  No waiver = keep your consent filed away and secure.
 
 ## Preparing the Informed Consent Doc
 
@@ -198,11 +189,9 @@ Let's compare a few different consent documents:
 
 ## Using the Template(s)
 
-The tell you exactly how to set it up for approval.
-
-Use same language from existing or example protocols but do not copy.
-
-Keep it simple.
+-  The tell you exactly how to set it up for approval.
+-  Use same language from existing or example protocols but do not copy.
+-  Keep it simple.
 
 ## Preparing your Research Description {.smaller}
 
@@ -217,13 +206,12 @@ If you want to add it later, you will have to submit a modification request
 
 ## Preparing your Research Description
 
-![](images/BME)
+![](images/BME){.r-stretch}
 
 ## Preparing your Research Description
 
-I like to look at example protocols for inspiration. If they have been approved before, you know what language works.
-
-[People are happy to share!](/Files/LectureSpeedProtocol.pdf)
+-  I like to look at example protocols for inspiration. If they have been approved before, you know what language works.
+-  [People are happy to share!](/Files/LectureSpeedProtocol.pdf)
 
 ## Did you Violate Your Protocol?
 
@@ -233,30 +221,24 @@ Submit a Modification Request (MR) when:
 -   You changed or added more questions to a survey or schedule
 -   Your messaging has changed in some way
 
-Can save you some trouble...
-
 ## Why I'm a Delinguent
 
-Written up for broken protocol
-
-No formal consequences
-
-Allow me to explain...
+-  Written up for broken protocol
+-  No formal consequences
+-  Allow me to explain...
 
 # **The Person**
 
-Most communication research is likely reviewed by just one person unless there is risk.
-
-I've had the same guy for every project I've submitted to the ORI at UK.
-
-We are now friends.
+-  Most communication research is likely reviewed by just one person unless there is risk.
+-  I've had the same guy for every project I've submitted to the ORI at UK.
+-  We are now friends.
 
 ## When Do I Hear From Them?
 
 After you incorporate Don's feedback and submit, one of two things will happen"
 
-1.  You will get IRB feedback likely in 2-3 weeks
-2.  You will get an email saying that it has been screen and needs changes before going to the IRB.
+-  You will get IRB feedback likely in 2-3 weeks
+-  You will get an email saying that it has been screen and needs changes before going to the IRB.
 
 The odds that it gets accepted right away are slim.
 
@@ -272,11 +254,11 @@ The odds that it gets accepted right away are slim.
 
 ## Example Responses
 
-![](images/Example%201.png)
+![](images/Example%201.png){.r-stretch}
 
 ## Example Responses
 
-![](images/Example%202.png)
+![](images/Example%202.png){.r-stretch}
 
 ## Building the Relationship
 
@@ -285,6 +267,6 @@ The odds that it gets accepted right away are slim.
 -   Call them up!
 -   Be nice. How would you want to be treated?
 
-They want you to get approved.
+**They want you to get approved.**
 
 # Questions???

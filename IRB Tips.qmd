@@ -8,11 +8,12 @@ format:
     slide-number: true
     preview-links: auto
     logo: images/UK.png
-    footer: <tkfr222@uky.edu> | [tkodyfrey.github.io](https://tkodyfrey.github.io)
+    footer: <tkfr222@uky.edu> | [@TKFrey](https://twitter.com/TKFrey) | [tkodyfrey.github.io](https://tkodyfrey.github.io)
     scrollable: true
     transition: fade
     navigation-mode: vertical
 editor: visual
+self-contained: true
 ---
 
 ## Who am I?
@@ -269,4 +270,6 @@ The odds that it gets accepted right away are slim.
 
 **They want you to get approved.**
 
-# Questions???
+# Questions??? {.smaller}
+
+Source code for presentation available via Github: [tkodyfrey/IRB-Talk](https://github.com/tkodyfrey/IRB-Talk)

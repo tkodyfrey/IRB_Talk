@@ -212,7 +212,7 @@ If you want to add it later, you will have to submit a modification request
 ## Preparing your Research Description
 
 -  I like to look at example protocols for inspiration. If they have been approved before, you know what language works.
--  [People are happy to share!](/Files/LectureSpeedProtocol.pdf)
+-  [People are happy to share!](IRB-Talk/Files/LectureSpeedProtocol.pdf)
 
 ## Did you Violate Your Protocol?
 

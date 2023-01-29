@@ -1,0 +1,272 @@
+---
+title: "CI665 Workshop: Navigating the IRB"
+author: "Dr. T. Kody Frey"
+subtitle: "Assistant Professor | School of Information Science"
+format: 
+  revealjs:
+    theme: [simple]
+    slide-number: true
+    preview-links: auto
+    logo: images/UK.png
+    footer: <tkfr222@uky.edu> | [@TKFrey](https://twitter.com/TKFrey) | [tkodyfrey.github.io](https://tkodyfrey.github.io)
+    scrollable: true
+    transition: fade
+    navigation-mode: vertical
+editor: visual
+self-contained: false
+---
+
+## What do I know?
+
+-   E-IRB Application Overhaul V4 Reviewer
+-   Responsible Conduct of Research In-Person Trainer
+-   Frequent ORI Zoom Office Hours Attendee
+-   Protocol Violation Delinquent
+-   Occasional pain in the IRB's side
+
+## Disclaimer
+
+-   Tried to make this super practical
+-   Work on getting your protocols started as we go.
+-   My goal is to help you submit a protocol and respond to feedback.
+
+## What is the IRB?
+
+::: incremental
+-   Your friend!
+-   Your enemy.
+-   An ethics committee
+:::
+
+. . .
+
+### What does the IRB do?
+
+-   Formally review, approve, and monitor human subjects research to ensure the safety, rights, and welfare of subjects are protected
+-   Determine the degree and likelihood of risk
+
+## Abandon Your Present Biases
+
+![](images/Bullies.png){.r-stretch}
+
+## Are communication studies risky?
+
+*Minimal risk*:
+
+"the probability and magnitude of harm or discomfort anticipated ... are not greater ... than those ordinarily encountered in daily life or during ... routine physical or psychological examinations or tests."
+
+## What Can I Share That Might Help You?
+
+The 3 Ps!
+
+-   The Process
+-   The Parts
+-   The Person
+
+# **The Process**
+
+I want to answer 3 questions in this section:
+
+-   How do I get started?
+-   What do I need to actually include?
+-   How do I submit it?
+
+## How do I get started?
+
+The good thing is that the whole process is electronic.
+
+![](images/ORI%20Homepage.png){.r-stretch}
+
+::: notes
+I don't really prepare anything beforehand. Just start the protocol. Do this with them.
+:::
+
+## Starting Your Protocol
+
+Let's build a new application.
+
+![](images/New%20Protocol%20App.png){.r-stretch}
+
+## Understanding the system {.smaller}
+
+It looks more complicated than it is - try not to let it intimidate you
+
+Pay attention to the 'All Templates' button in the top left
+
+![](images/Protocol.png){.r-stretch}
+
+::: notes
+Actually click on the all templates button to show them what is there.
+:::
+
+## Getting through it unscathed
+
+-   Save. Save. Save. Save. Save.
+-   Utilize the templates
+-   Give yourself time
+-   Ask for help
+-   Do not expect your initial submission to be approved
+-   Be thorough
+-   Use Don's feedback
+
+## Don's Feedback!
+
+Before you can actually submit your protocol to the IRB, it must be reviewed by the Associate Dean for Research (Don)
+
+![](images/helme.jpeg){.r-stretch}
+
+::: notes
+Don't know what Don will be like. Nancy was super critical - which was great.
+:::
+
+## Don's Feedback! {.smaller}
+
+*After all information is entered*, you send it to Don for feedback
+
+In any case, email to 1) thank for feedback and 2) explain your changes.
+
+![](images/Signature.png){.r-stretch}
+
+::: notes
+This is really important to make sure you get right
+:::
+
+# **The Parts**
+
+Looking closer at the protocol, here is what you can expect to complete:
+
+::: columns
+::: {.column width="40%"}
+-   Protocol Type
+-   Exemption Category
+-   Project Info
+-   Subject Demographics
+:::
+
+::: {.column width="60%"}
+-   Informed Consent/Assent Process/Waiver
+-   **Research Description**
+-   Additional Info
+-   Signatures
+:::
+:::
+
+## Are we going to cover all that?
+
+No.
+
+Let's focus primarily on 2 parts:
+
+-   Informed Consent \[[UKY Templates\]](https://www.research.uky.edu/resources/announcement/updated-informed-consent-templates)
+-   Research Description
+
+## Preparing the Informed Consent Doc {.smaller}
+
+-   You first have to understand the need to document consent.
+-   There are some projects where consent can be acknowledged and documentation is not needed (A *waiver* of consent)
+-   This is common when research has no more than minimal risk.
+-   No waiver = keep your consent filed away and secure.
+
+## Preparing the Informed Consent Doc
+
+Let's compare a few different consent documents:
+
+::: panel-tabset
+### Experiment
+
+![](images/Experiment.png)
+
+### Survey
+
+![](images/Survey)
+
+### Focus Groups
+
+![](images/Focus%20Group)
+:::
+
+## Using the Template(s)
+
+-   The tell you exactly how to set it up for approval.
+-   Use same language from existing or example protocols but do not copy.
+-   Keep it simple.
+
+## Preparing your Research Description {.smaller}
+
+-   Be consistent but avoid repeating
+-   Save. Save. Save. Save. Save.
+-   Have *everything* ready
+    -   Survey Instruments or Experimental Materials (at least scripted)
+    -   Emails to potential participants / listservs / contacts
+    -   Supplemental materials (handouts, instructions, etc.)
+
+If you want to add it later, you will have to submit a modification request
+
+## Preparing your Research Description
+
+![](images/BME){.r-stretch}
+
+## Preparing your Research Description
+
+-   I like to look at example protocols for inspiration. If they have been approved before, you know what language works.
+-   [People are happy to share!](Files/LectureSpeedProtocol.pdf)
+
+## Did you Violate Your Protocol?
+
+Submit a Modification Request (MR) when:
+
+-   You need more data
+-   You changed or added more questions to a survey or schedule
+-   Your messaging has changed in some way
+
+## Why I'm a Delinguent
+
+-   Written up for broken protocol
+-   No formal consequences
+-   Allow me to explain...
+
+# **The Person**
+
+-   Most communication research is likely reviewed by just one person unless there is risk.
+-   I've had the same guy for every project I've submitted to the ORI at UK.
+-   We are now friends.
+
+## When Do I Hear From Them?
+
+After you incorporate Don's feedback and submit, one of two things will happen"
+
+-   You will get IRB feedback likely in 2-3 weeks
+-   You will get an email saying that it has been screen and needs changes before going to the IRB.
+
+The odds that it gets accepted right away are slim.
+
+## How Do I Deal with the Person?
+
+-   Try not to take it personally
+-   Give them what they want
+-   Contact them directly
+-   Make sure they know you aren't taking it personally
+-   Make them feel like you are serious about the ORI
+-   Be super specific and thorough
+-   Respond to everything!
+
+## Example Responses
+
+![](images/Example%201.png){.r-stretch}
+
+## Example Responses
+
+![](images/Example%202.png){.r-stretch}
+
+## Building the Relationship
+
+-   They appreciate questions because it makes their work easier
+-   Consider Zoom office hours
+-   Call them up!
+-   Be nice. How would you want to be treated?
+
+**They want you to get approved.**
+
+# Questions??? {.smaller}
+
+Source code for presentation available via Github: [tkodyfrey/IRB_Talk](https://github.com/tkodyfrey/IRB_Talk)

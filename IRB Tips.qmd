@@ -13,7 +13,7 @@ format:
     transition: fade
     navigation-mode: vertical
 editor: visual
-self-contained: false
+self-contained: true
 ---
 
 ## What do I know?

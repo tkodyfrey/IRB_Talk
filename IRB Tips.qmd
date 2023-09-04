@@ -1,7 +1,7 @@
 ---
-title: "CI665 Workshop: Navigating the IRB"
+title: "CI664 Workshop: Navigating the IRB"
 author: "Dr. T. Kody Frey"
-subtitle: "Assistant Professor | School of Information Science"
+subtitle: "Assistant Professor | School of Information Science | CI College Research Program Coordinator"
 format: 
   revealjs:
     theme: [simple]
@@ -26,24 +26,24 @@ self-contained: true
 
 ## Disclaimer
 
--   Tried to make this super practical
--   Work on getting your protocols started as we go.
--   My goal is to help you submit a protocol and respond to feedback.
+-   I try to make this super practical
+-   I want you to take this and apply to any protocols you are starting.
+-   My goal is to better prepare you navigate the IRB process.
 
 ## What is the IRB?
 
 ::: incremental
 -   Your friend!
 -   Your enemy.
--   An ethics committee
+-   An ethics committee who oversees university research activities.
 :::
 
 . . .
 
 ### What does the IRB do?
 
--   Formally review, approve, and monitor human subjects research to ensure the safety, rights, and welfare of subjects are protected
--   Determine the degree and likelihood of risk
+-   Formally reviews, approves, and monitors human subjects research to ensure the safety, rights, and welfare of subjects are protected.
+-   Determines the degree and likelihood of risk associated with research.
 
 ## Abandon Your Present Biases
 
@@ -59,9 +59,9 @@ self-contained: true
 
 The 3 Ps!
 
--   The Process
--   The Parts
--   The Person
+-   The **P**rocess
+-   The **P**arts
+-   The **P**erson
 
 # **The Process**
 
@@ -78,18 +78,18 @@ The good thing is that the whole process is electronic.
 ![](images/ORI%20Homepage.png){.r-stretch}
 
 ::: notes
-I don't really prepare anything beforehand. Just start the protocol. Do this with them.
+I don't really prepare anything beforehand. You are welcome to start a protocol with me if you like / working through that process.
 :::
 
 ## Starting Your Protocol
 
-Let's build a new application.
+Let's imagine we are building a new application.
 
 ![](images/New%20Protocol%20App.png){.r-stretch}
 
 ## Understanding the system {.smaller}
 
-It looks more complicated than it is - try not to let it intimidate you
+It looks more complicated than it is - try not to let it intimidate you.
 
 Pay attention to the 'All Templates' button in the top left
 
@@ -114,10 +114,6 @@ Actually click on the all templates button to show them what is there.
 Before you can actually submit your protocol to the IRB, it must be reviewed by the Associate Dean for Research (Don)
 
 ![](images/helme.jpeg){.r-stretch}
-
-::: notes
-Don't know what Don will be like. Nancy was super critical - which was great.
-:::
 
 ## Don's Feedback! {.smaller}
 
@@ -167,6 +163,10 @@ Let's focus primarily on 2 parts:
 -   This is common when research has no more than minimal risk.
 -   No waiver = keep your consent filed away and secure.
 
+::: notes
+In my experience, qual research that more deeply examines individuals lived experieces typically does not get waived, but it can. 
+:::
+
 ## Preparing the Informed Consent Doc
 
 Let's compare a few different consent documents:
@@ -188,7 +188,7 @@ Let's compare a few different consent documents:
 ## Using the Template(s)
 
 -   The tell you exactly how to set it up for approval.
--   Use same language from existing or example protocols but do not copy.
+-   Use same language from existing or example protocols but avoid copying.
 -   Keep it simple.
 
 ## Preparing your Research Description {.smaller}
@@ -215,9 +215,9 @@ If you want to add it later, you will have to submit a modification request
 
 Submit a Modification Request (MR) when:
 
--   You need more data
--   You changed or added more questions to a survey or schedule
--   Your messaging has changed in some way
+-   You need more data.
+-   You changed or added more questions to a survey or schedule.
+-   Your messaging has changed in some way.
 
 ## Why I'm a Delinguent
 
@@ -227,8 +227,8 @@ Submit a Modification Request (MR) when:
 
 # **The Person**
 
--   Most communication research is likely reviewed by just one person unless there is risk.
--   I've had the same guy for every project I've submitted to the ORI at UK.
+-   Most communication research is likely reviewed by one of two people (unless there is assumption of risk).
+-   I've had the same guy for every project I've submitted to the ORI at UK except one.
 -   We are now friends.
 
 ## When Do I Hear From Them?
@@ -236,7 +236,7 @@ Submit a Modification Request (MR) when:
 After you incorporate Don's feedback and submit, one of two things will happen"
 
 -   You will get IRB feedback likely in 2-3 weeks
--   You will get an email saying that it has been screen and needs changes before going to the IRB.
+-   You will get an email saying that it has been screened and needs changes before going to the IRB.
 
 The odds that it gets accepted right away are slim.
 
@@ -266,6 +266,12 @@ The odds that it gets accepted right away are slim.
 -   Be nice. How would you want to be treated?
 
 **They want you to get approved.**
+
+# Recap
+
+-   The **P**rocess has several steps
+-   The **P**arts are often repetitive
+-   The **P**erson actually wants to see you succeed
 
 # Questions??? {.smaller}
 

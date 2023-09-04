@@ -30,7 +30,7 @@ self-contained: true
 -   I want you to take this and apply to any protocols you are starting.
 -   My goal is to better prepare you navigate the IRB process.
 
-## What is the IRB?
+## What is the IRB? {.smaller}
 
 ::: incremental
 -   Your friend!
@@ -187,7 +187,7 @@ Let's compare a few different consent documents:
 
 ## Using the Template(s)
 
--   The tell you exactly how to set it up for approval.
+-   They tell you exactly how to set it up for approval.
 -   Use same language from existing or example protocols but avoid copying.
 -   Keep it simple.
 
@@ -200,7 +200,7 @@ Let's compare a few different consent documents:
     -   Emails to potential participants / listservs / contacts
     -   Supplemental materials (handouts, instructions, etc.)
 
-If you want to add it later, you will have to submit a modification request
+If you want to add it later, you will have to submit a modification request.
 
 ## Preparing your Research Description
 
